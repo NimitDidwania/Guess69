@@ -1,0 +1,53 @@
+
+*{
+box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+}
+.container{
+    border: 1px solid black;
+    height: 100vh;
+    display: flex;
+    flex-wrap:wrap;
+    background-color: black;
+}
+
+.card{
+    border: 1px solid slategray ;
+    height: 25vh;
+    width: 30vh;
+    margin: auto;
+    /* color: white; */
+    display: flex;
+    background: white;
+    border-radius: 17px;
+}
+.ques{
+    text-align: center;
+    margin: auto;
+    font-size: 10vh;
+}
+.heading{
+    background-color: #B6AB98;
+    font-family: monospace;
+    font-size: ;
+}
+
+.inline{
+    display: inline;
+}
+
+.points{
+    border: 2px solid white;
+    width:10px
+}
+#title{
+    text-align: center;
+    background-color: #B6AB98;
+    font-family: monospace;
+    font-size: ;
+}
+#score-display
+{
+    
+}
